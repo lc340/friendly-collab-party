@@ -11,3 +11,7 @@ There are now 2 people in this team.
 
 ## Setup & Requirements
 This project requires a computer and internet.
+
+Hello!
+
+[hi]: https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif "Bear"
